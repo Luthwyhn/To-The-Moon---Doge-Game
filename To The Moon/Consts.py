@@ -1,0 +1,33 @@
+#CONSTS derived from artwork, etc.
+#Blayne White 
+
+#  wow
+
+NUM_COLS=7
+NUM_ROWS=10
+
+TILE_SIZE=64
+
+X_OFFSET=52
+Y_OFFSET=34
+
+SHIP_X=8
+SHIP_Y=0
+
+PURPLE_X=0
+PURPLE_Y=4
+
+RED_X=4
+RED_Y=4
+
+GREEN_X=0
+GREEN_Y=8
+
+BLUE_X=4
+BLUE_Y=8
+
+UP=0
+DOWN=1
+LEFT=2
+RIGHT=3
+
